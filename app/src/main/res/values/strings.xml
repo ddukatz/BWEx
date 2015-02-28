@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BW Exercise</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Body Weight Exercises</string>
+    <string name="push">Pushups</string>
+    <string name="pull">Pullups</string>
+    <string name="squat">Squats</string>
+    <string name="sit">Situps</string>
+    <string name="jump">Jumprope</string>
+    <string name="dip">Dips</string>
+    <string name="hist">History</string>
+    <string name="sett">Settings</string>
+    <string name="titleDips">Dips</string>
+    <string name="title_activity_dips">Dips</string>
+
+</resources>
